@@ -7,7 +7,7 @@ secure by hasing password with id as salt (so each user must have unique passwor
 * Unzip source code to a local folder. 
 * import file inside db folder in sqllite.
 * copy folder inside wamp64/www folder. 
-* navigate to http://localhost/Event%20Management/Pages/User/login.php in any browser.
+* navigate to http://localhost/Item%20Management/Pages/User/login.php in any browser.
 * default email and password for superadmin user is username: super@gmail.com password:superadmin (password is MD5 of password+id encrypted in database) 
 
 ### Workflow
